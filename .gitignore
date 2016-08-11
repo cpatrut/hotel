@@ -6,4 +6,5 @@ HotelManagement/.settings/org.eclipse.jdt.core.prefs
 HotelManagement/.settings/org.eclipse.m2e.core.prefs
 HotelManagement/bin
 HotelManagement/target/
+HotelManagement/target/classes/META-INF/maven/HotelManagement/HotelManagement/pom.properties
 
